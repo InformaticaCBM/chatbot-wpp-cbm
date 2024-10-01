@@ -1,8 +1,8 @@
 {
    
     "mensagemPadrao_1": "Olá! Obrigado por entrar em contato com o Colégio Barão de Mauá, ficamos muito feliz em poder te ajudar!",
-    "mensagemPadrao_2": "Passe para mim as seguintes informações (coloque um valor em cada linha): \n - Responsável Financeiro: \n - Aluno 1: \n - Aluno 2 (caso não tenha outro filho, escreva 'nenhum'): ",
-    "mensagemPadrao_3": "Certo, obrigado pelas informações. Agora, segue abaixo setores disponíveis para sanar dúvidas ou obter informações: \n1 - Atendimento\n2 - Comercial\n3 - Secretaria\n4 - Coordenação Infantil e Fundamental I\n5 - Coordenação Fundamental II e Médio\n6 - Financeiro\n7 - TI\n8 - Outros assuntos",
+    "mensagemPadrao_2": "Passe o nome completo do responsável financeiro, por favor: ",
+    "mensagemPadrao_3": "Obrigado pelas informações. Agora, segue abaixo setores disponíveis para sanar dúvidas ou obter informações: \n1 - Atendimento\n2 - Comercial\n3 - Secretaria\n4 - Coordenação Infantil e Fundamental I\n5 - Coordenação Fundamental II e Médio\n6 - Financeiro\n7 - TI\n8 - Outros assuntos",
 
     "opcoesSetores": {
         "1": "👉 Atendimento",
